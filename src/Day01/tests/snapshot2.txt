@@ -1,0 +1,8 @@
+/etc/stove/config.xml
+/Users/baker/recipes/database.xml
+/Users/baker/recipes/database_version3.yaml
+/Users/baker/recipes/database_version4.yaml
+/Users/baker/recipes/database_version5.yaml
+/Users/baker/recipes/database_version6.yaml
+/Users/baker/recipes/database_version7.yaml
+/Users/baker/pokemon.avi
