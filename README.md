@@ -11,6 +11,8 @@ Welcome to my personal Go course project as part of the School21 training progra
     - Basic Go: Flag, Os, Bufio
 - [**Day01**](src/Day01/)
     - Basic Go: JSON, XML
+- [**Day02**](src/Day02/)
+  - Basic Go: Create tar, Tree, Commands
 
 ## Disclaimer
 
